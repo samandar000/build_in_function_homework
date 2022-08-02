@@ -48,7 +48,7 @@ Use the pow function.
 **Input**:*n*.\
 **Output**: *answer*.
 
-|   **Input**   |   **Output**    |
+|   **Input**   |   **Output**    
 |---------------|-----------------|
 |4              |4.0              |
 
@@ -126,7 +126,7 @@ Use the pow function
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|8 4            |10.0              |
+|2 4            |160              |
 
 # build_func10
 
@@ -143,4 +143,4 @@ Use the round function
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |160              |
+|8 4            |10.0              |
